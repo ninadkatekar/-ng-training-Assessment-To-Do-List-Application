@@ -9,6 +9,7 @@ View Task List: Displays a list of all tasks in a tabular format with sorting an
 Edit Task: Users can edit existing tasks directly from the task list.
 Delete Task: Provides confirmation before allowing users to delete a task.
 Refresh Button: Allows users to refresh the task list.
+Pagination: Navigate through multiple pages of tasks, displaying a set number of tasks per page.
 Responsive Design: Ensures the application looks great and is fully functional on both desktop and mobile screens.
 
 Screenshots
