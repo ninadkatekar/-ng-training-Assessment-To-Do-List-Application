@@ -54,18 +54,5 @@ Refreshing the Task List:
 
 Click the "Refresh" button to reload the tasks.
 
-Folder Structure
-├── public
-│   └── index.html
-├── src
-│   ├── components
-│   │   ├── TaskList.jsx
-│   │   ├── TaskForm.jsx
-│   │   ├── DeleteConfirmation.jsx
-│   │   └── Pagination.jsx
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-├── package.json
-└── README.md
+
 
